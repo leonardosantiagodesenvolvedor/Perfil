@@ -10,7 +10,7 @@ Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se voc
 
 ## Projetos
 
-Os projetos desenvolvidos por este pesquisador são considerados sigilosos e estão em sistemas de controle de versões em modo privado.
+Alguns dos projetos desenvolvidos por este pesquisador são considerados sigilosos e estão em sistemas de controle de versões em modo privado.Outros sao de total utilizacao publica.
 
 ## Experiência
 
@@ -22,7 +22,7 @@ Desenvolvimento de sistema embarcados utilizando programação Python e Arduino.
 
 ## Educação
 
-Doutor em Ciência das Radiações pela UFMG (2021). Mestre em Ciência das Radiações pela UFMG (2011). Pós-graduado em ENGENHARIA DE SEGURANÇA DO TRABALHO pela Universidade Católica de Minas Gerais (2010).Pós-graduado em Gestão e Governança da Tecnologia da Informação pelo Centro Universitário SENAC (2018). Possui graduação em ENGENHARIA ELETRÔNICA e de TELECOMUNICAÇÃO com habilitação em AUTOMAÇÃO E CONTROLE pela Universidade Católica de Minas Gerais(2009) e em TECNÓLOGO EM RADIOLOGIA pelo Centro Federal de Educação Tecnológica de Minas Gerais (2008).Bacharel em Direito pela Universidade Católica de Minas Gerais (2016) com aprovação no exame da OAB (Ordem dos Advogados do Brasil), Licenciatura em Física (2021) pela IPEMIG/Faculdade Batista. Está cursando mestrado acadêmico em Ciência da Informação na UFSC - MINTER 21 UFSC/PF na área de Inteligência Artificial e graduação em Análise e desenvolvimento de sistema - UNICESUMAR.
+Doutor em Ciência das Radiações pela UFMG (2021). Mestre em Ciência das Radiações pela UFMG (2011). Pós-graduado em ENGENHARIA DE SEGURANÇA DO TRABALHO pela Universidade Católica de Minas Gerais (2010).Pós-graduado em Gestão e Governança da Tecnologia da Informação pelo Centro Universitário SENAC (2018) e Pos-graduacao em Ciencias de Dados (2023) - UNICESUMAR. Possui graduação em ENGENHARIA ELETRÔNICA e de TELECOMUNICAÇÃO com habilitação em AUTOMAÇÃO E CONTROLE pela Universidade Católica de Minas Gerais(2009) e em TECNÓLOGO EM RADIOLOGIA pelo Centro Federal de Educação Tecnológica de Minas Gerais (2008).Bacharel em Direito pela Universidade Católica de Minas Gerais (2016) com aprovação no exame da OAB (Ordem dos Advogados do Brasil), Licenciatura em Física (2021) pela IPEMIG/Faculdade Batista. Finalizaou o mestrado acadêmico em Ciência da Informação na UFSC - MINTER 21 UFSC/PF na área de Inteligência Artificial e a graduação em Análise e desenvolvimento de sistema - UNICESUMAR.
 
 
 ## Contato
